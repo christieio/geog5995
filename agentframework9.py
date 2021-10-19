@@ -7,7 +7,7 @@ Created on Thu Sep 16 13:24:35 2021
 #import random module to access random functions
 import random
 
-#defining a new function called "agent"
+#create "Agent" class
 class Agent(): 
     #construction function __init__
     #self stores variables inside the object ()
