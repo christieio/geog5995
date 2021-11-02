@@ -19,3 +19,6 @@ prac6-7 show evidence of testing whether storing the txt file has been successfu
 matplotlib.pyplot.imshow(environment)
 matplotlib.pyplot.show()
 This code tests the model by showing a plot; if a raster graph can be seen then the code has worked correctly. 
+
+Sources:
+https://christieio.github.io/ uses the Jekyll theme 'Cayma'. 
